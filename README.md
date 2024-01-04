@@ -1,6 +1,6 @@
-## Samuil Sarandev *(samu.sar)*
-### Software Developer
-#### ✨Go-Getter, Team Player & Self-Professed Ideator✨
+# Samuil Sarandev *(samu.sar)*
+## Software Developer
+### ✨Go-Getter, Team Player & Self-Professed Ideator✨
 </br>
 
 - 🔭 I’m currently working on personal apps, portfolio projects, and *DXC* things.
