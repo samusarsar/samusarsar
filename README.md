@@ -1,4 +1,5 @@
-### Samuil Sarandev (samu.sar) - Software Developer
+## Samuil Sarandev *(samu.sar)*
+### Software Developer
 
 - 🔭 I’m currently working on personal apps and DXC things.
 - 🌱 I’m currently learning Angular and Java, as well as patience.
