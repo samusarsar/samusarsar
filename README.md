@@ -18,4 +18,8 @@
 
 </br>
 
-📫 How to reach me: samuil.sarandev@gmail.com
+📫 How to reach me: 
+- ✉️ email: samuil.sarandev@gmail.com
+- 👨‍💼 linkedin: [Samuil Sarandev](https://www.linkedin.com/in/samuil-sarandev/)
+- 📱 telegram: [@samu_sar](https://t.me/samu_sar)
+- 👾 discord: [@samu.sar](https://discord.com/users/940654338857127999)
