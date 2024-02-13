@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on personal apps, portfolio projects, and *DXC* things.
 - 🌱 I’m currently learning Java, Spring Boot and patience.
 - 👯 I’m looking to collaborate on Full-Stack projects, as well as any and all other interesting things permitted by law.
+- 💡 My previous professional experience has been in new business development and product management.
 
 </br>
 
